@@ -1,0 +1,44 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+001,Carlsbad Transit,On Main Street on the west side of the Carlsbad Transit Center,32.4259,-104.2262
+101,Albertsons,Outside the southeast corner of Albertsons in the parking lot,32.4292,-104.2277
+102,Turquoise Health and Wellness,Outside the north entrance of Turquoise Health and Wellness,32.4311,-104.2282
+103,302 West Pierce Parking Lot,In front of the vacant parking lot north of Papa Murphy's,32.4362,-104.2289
+104,Pierce and Thomas,On Thomas just north of the intersection with Pierce Street,32.4360,-104.2390
+105,Blake's Lotaburger,On Pierce Street in front of Blake's Lotaburger,32.4359,-104.2432
+106,Jenkins Furniture,Between Jenkins Furniture and the Mall Cinema,32.4406,-104.2553
+107,Southwest Pharmacy,Outside the front of Southwest Pharmacy,32.4410,-104.2570
+108,Carlsbad Medical Center,Outside the west entrance of the Carlsbad Medical Center,32.4423,-104.2583
+109,Landsun Homes,On Westridge outside the east building of Landsun Homes,32.4412,-104.2501
+110,NMSU-C,On the east side of the main building at NMSU-C,32.4425,-104.2649
+111,Lakeview Homes,Outside the northeast entrance of Lakeview Homes,32.4366,-104.2500
+112,Walgreens,Front entrance of Walgreens,32.4355,-104.2453
+113,Eddy Federal Credit Union,On Pierce Street just east of Eddy Federal Credit Union,32.4356,-104.2369
+114,Vista del Sol Apartments,On Mesa Street just north of the intersection with Blodgett Street,32.4325,-104.2366
+201,109 N. Alameda,On West Mermod Street in front of the First Baptist Church annex,32.4205,-104.2321
+202,Carlsbad Police Department,On West Mermod Street outside the Carlsbad Police Department,32.4205,-104.2333
+203,Phillip's Cowboy Shop,On West Mermod Street outside of Phillip's Cowboy Shop,32.4205,-104.2358
+204,1202 W. Mermod,On West Mermod Street just west of the intersection with North Walnut Street,32.4205,-104.2415
+205,1408 W. Mermod,On West Mermod Street between North Maple and North Cypress Streets,32.4206,-104.2443
+206,West Carlsbad Recreation Area,On North 5th Street in the parking lot of the West Carlsbad Recreation Area,32.4273,-104.2526
+207,1501 W. Mermod,On West Mermod Street just west of the intersection with North Cypress Street,32.4204,-104.2455
+208,Billie's Haircut Shop,Outside Billie's Haircut Shop just west of the Family Dollar at North Mesa Street,32.4203,-104.2377
+209,711 W. Mermod,On West Mermod Street between South Lake and South Mesquite Streets,32.4203,-104.2350
+210,507 W. Mermod,On West Mermod Street across from the Carlsbad Police Department,32.4203,-104.2325
+211,City Library,On West Mermod Street outside the Carlsbad Public Library,32.4203,-104.2309
+212,Beach Tennis Courts,On Park Drive at the boat ramp across from the Beach Tennis Courts,32.4256,-104.2210
+301,Treasure House,On East Shaw Street between the two buildings on the north side,32.4228,-104.2260
+302,Carlsbad National Bank,On North Canyon Street across from the Cavern Theatre,32.4223,-104.2278
+303,District Court,On North Canyon Street at the crosswalk on the east side of the courthouse,32.4210,-104.2278
+304,Municipal Court,On West Tansill Street just west of Halagueno Street,32.4167,-104.2306
+305,La Tienda,Outside the entrance to La Tienda on South Canal Street,32.4065,-104.2281
+306,Magistrate Court,On South Canal Street between Stevens Inn and Magistrate Court,32.4007,-104.2230
+307,Sutherlands,Outside the entrance to Sutherlands on South Canal Street,32.3984,-104.2237
+308,Walmart,Outside the South entrance to Walmart on South Canal Street,32.3934,-104.2221
+309,El Rey Motel,On South Canal Street in front of the El Rey Motel between K and Hamilton Streets,32.3807,-104.2257
+310,DVR,Outside the Division of Vocational Rehabilitation on South Canal Street,32.3799,-104.2269
+311,Motel 6,On South Canal Street outside Motel 6 south of San Jose,32.3748,-104.2294
+312,NM Income Support,On the north side of New Mexico Income Support on San Jose Boulevard,32.3797,-104.2284
+313,Community Senior Apartments,On Pecan Street just east of Carver Street,32.3839,-104.2271
+314,San Jose Senior Center,On San Jose Boulevard outside the senior center between Kircher and Del Rio Streets,32.3900,-104.2288
+315,Del Rio Apartments,In the parking lot of the Villa San Jose Apartments on Del Rio Street,32.3918,-104.2301
+316,Carlsbad Family Center,On the south side of the Carlsbad Family Health Center on San Jose Boulevard,32.3993,-104.2298

@@ -1,0 +1,4 @@
+route_id,service_id,trip_id,shape_id
+RED,S1,TR1,SR1
+BLU,S1,TB1,SR2
+GRN,S1,TG1,SR3

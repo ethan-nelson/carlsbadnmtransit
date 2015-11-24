@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+Carlsbad Municipal Transit System,http://cityofcarlsbadnm.com/transit.cfm,America/Denver,(575) 887-2121,en

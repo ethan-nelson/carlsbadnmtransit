@@ -1,0 +1,4 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+RED,N,Red,"The Red Route runs through North Carlsbad, taking West Pierce to NMSU-C.",3,DE6061,000000
+BLU,EW,Blue,"The Blue Route runs down Mermod to West Carlsbad, looping back East to the Rec Center.",3,BDD8FF,000000
+GRN,S,Green,"The Green Route runs to South Carlsbad down South Canal and back up San Jose.",3,60E061,000000
